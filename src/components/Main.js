@@ -92,6 +92,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/todo.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -131,6 +132,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/students.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -162,6 +164,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/underwood.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -193,6 +196,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/kompasAPI.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -222,6 +226,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/auth.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -251,6 +256,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/shop.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -279,6 +285,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/timeView.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
@@ -308,6 +315,7 @@ export default function Body({
               <div className="video-container">
                 <iframe
                   src="./vid/timeZones.mp4"
+                  frameborder="0"
                   controls
                   muted
                   allowFullScreen
