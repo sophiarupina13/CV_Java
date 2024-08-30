@@ -38,7 +38,7 @@ function App() {
 
   const handleButtonClickHH = () => {
     window.open(
-      "https://hh.ru/resume/c649a347ff0d1900ac0039ed1f633072334e65",
+      "https://hh.ru/resume/2956eb82ff0af538190039ed1f6f3038306853",
       "_blank"
     );
   };
